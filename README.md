@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on JavaScript engineer
 - 🌱 I’m currently learning Japanese and Node.js
 - 💬 Ask me about Temporarily absent
-- ⚡ ![visitors](https://visitor-badge.glitch.me/badge?page_id=zzz999902)
+- ⚡ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jzzz999902)
 
 
   <div align="center">
